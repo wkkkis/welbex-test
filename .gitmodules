@@ -1,0 +1,6 @@
+[submodule "welbex-backend"]
+	path = welbex-backend
+	url = https://github.com/wkkkis/welbex-backend.git
+[submodule "welbex-front"]
+	path = welbex-front
+	url = https://github.com/wkkkis/welbex-front.git
